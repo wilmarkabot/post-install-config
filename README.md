@@ -89,10 +89,64 @@ We Named our Teams as Online Banking
 <br />
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+4th Objective is to make sure anyone can create tickets, 
+to do that we need to go to Admin Panel then Settings then UNCHECK unregistered users can Create tickets)
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ad0kiXS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<br />
+
+<p>
+This is now our fifth Objective and on this Objective we will need to Create 2 Agents.
+Agents manage tickets within their departments, ensuring efficient task allocation. 
+As helpdesk members, they resolve customer issues, provide support, 
+and maintain seamless communication to enhance service quality.
+</p>
+<p>
+<img src="https://i.imgur.com/kVQHPyt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<br />
+
+<p>
+After We Successfuly Created our Agents we will now create a USER.
+to do that just go to this time in the Agent Panel --> Users --> Add New.
+USERS submit tickets to report issues or request support, provide detailed information, 
+track ticket status, and respond to agent inquiries. 
+They play a vital role in initiating communication and ensuring smooth resolution of their concerns.
+</p>
+<p>
+<img src="https://i.imgur.com/b2jijGr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<br />
+
+<p>
+Our 2nd to the Last Objective is to Create SLA's (Service Level Aggrement)
+Its basically like how much time you have to resove or do some specific task weather its responding
+to a ticket or completing a ticket. We Created 3 SLA's Sev-A, Sev B, Sev C. <br />
+Sev-A SLA we need to resolve it in just 1 hour and it is the most Critical Ticket to Solve so we much take action of this SLA as soon as Posible. <br />
+Sev-B SLA is Critical but not Priority task <br />
+Sev-C SLA is Common Problems encounter in workplace and its a low priority task.
+</p>
+<p>
+<img src="https://i.imgur.com/OwIYj0n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<br />
+
+<p>
+This is our Last Objective and this time we will Create Help Topics.
+to do that go to Admin Panel -> Manage -> Help Topics  <br />
+Help Topics is a ticket organization by categorizing user inquiries based on predefined subjects, 
+such as "Bussness Critical Outage" or "Personal Computer Issues" 
+They guide users during ticket submission, ensuring proper routing to the right department or agent, 
+enhancing efficiency and providing faster, more accurate issue resolution.
+</p>
+<p>
+<img src="https://i.imgur.com/ssKyaDN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <br />
