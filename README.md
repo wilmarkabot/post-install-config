@@ -8,7 +8,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Done Made But Not yet Been Posted to youtube ](https://www.youtube.com/@MarkwheelReach)
+- ### [YouTube: Post-Install Configuration Objectives Playlist ](https://www.youtube.com/playlist?list=PLRwChl0ROcE7yfqEbbmVsT3gcU5yXW7VP)
 
 <h2>Environments and Technologies Used</h2>
 
